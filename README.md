@@ -4,7 +4,7 @@ Sample Application Developved By Using Spring Clould Stream and Kafka
 Sample Example which includes below technologies
 
   1) Spring Cloud Steams (Docker)
-  2) Kafka (Using Docker Swarm)
+  2) Kafka (Using Docker Compose)
   
 Installation Prerequisites 
   1) https://hub.docker.com/ please refer the installation guide and create a profile
